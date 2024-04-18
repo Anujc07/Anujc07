@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻🖥️Hello Guy's I am Anuj Choubey a Passionate Web Developer😉<br>🔭 I’m currently working on LMS Software and Employee Leads analytics System<br>🌱 I’m currently learning React.js and Devops<br>💬 Ask me about Django , Django Rest Framework , React<br>⚡ Fun fact I m an Engineer😁
+👨‍💻🖥️Hello Guy's I'm Anuj Choubey a Passionate Web Developer😉<br>🔭 I’m currently working on LMS Software and Employee Leads analytics System<br>🌱 I’m currently learning React.js and Devops<br>💬 Ask me about Django , Django Rest Framework , React<br>⚡ Fun fact I m an Engineer😁
 
 
 ## 🌐 Socials:
